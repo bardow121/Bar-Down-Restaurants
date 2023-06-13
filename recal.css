@@ -1,0 +1,17 @@
+body {  margin: 0;
+padding:0;
+background-position: center;
+background-size: auto;
+height: 110vh;
+background: linear-gradient(rgba(0, 0, 0, 0.4)50%, rgba(0, 0, 0, 0.4)50%), url(3.jpg);
+font-family: sans-serif;
+}
+
+.first {
+background-color: #E6FFFD;
+}
+.MAQ {color:blue;
+}
+
+.M2AQ {color:white;
+}
